@@ -1,7 +1,5 @@
 <div align="center">
 
-<font face="Arial" size="10" color="red">Текст</font>
-
 |[Download](https://tinyurl.com/3z8apm94)|
 |:-------------|
   
