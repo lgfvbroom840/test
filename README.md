@@ -13,4 +13,7 @@
 OS: Windows 10 any version (upwards 1909), Windows 11 any version
 Motherboard: Any
 ```
+## <a id="socials"></a>👾 〢 Contact & Support
 
+<div align="center">
+<a href="https://discord.com/users/BlackSOfts" alt="Add me on Discord"><img src="https://img.shields.io/badge/@Lxne-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff"></a>
